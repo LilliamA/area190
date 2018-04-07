@@ -1,0 +1,14 @@
+{
+  "name": "area_190",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.2.1",
+     "jquery-ujs": "^1.2.2",
+     "popper.js": "^1.12.9"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "LilliamA <lilliam.arce31@gmail.com>",
+  "license": "MIT"
+}

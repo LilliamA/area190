@@ -1,0 +1,42 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.head-container{
+    background-image: url('done2x2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 800px;
+}
+body{
+    background-color: #F8FBFF;
+}
+.body-container{
+
+    h3{
+        font-size: 49px;
+        margin: 20px 0px;
+        color: #4E4A6B;
+        font-weight: lighter;
+    }
+    h4{
+        font-size: 25px;
+        color: #4E4A6B;
+        font-weight: lighter;
+    }
+    p{
+        font-size: 22px;
+        color: #7591B8;
+        font-weight: lighter;
+    }
+}
+.copyright{
+    color:#ABBED7;
+    font-weight: lighter;
+}
+
+#footerv{
+    background-color: #EDF4FD;
+    padding: 15px 0px;
+}
